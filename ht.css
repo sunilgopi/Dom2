@@ -1,0 +1,43 @@
+#new
+{
+  
+  background-color: bisque;
+  text-align: center;
+  display: inline-block;
+  padding: 20px;
+  box-shadow: 2cap;
+
+}
+  
+
+#new img
+{
+  width :250px
+}
+#card11{
+  display: flex;
+  gap:20px
+}
+#card12
+{
+  background-color: silver;
+  text-align: center;
+  display: inline-block;
+  padding: 20px;
+  box-shadow: 2cap;
+}
+#card12 img{
+  width:250px
+}
+#card13
+{
+  background-color: silver;
+  text-align: center;
+  display: inline-block;
+  padding: 20px;
+  box-shadow: 2cap;
+  padding-left: 40px;
+}
+#card13 img{
+  width:250px
+}
